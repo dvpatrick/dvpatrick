@@ -2,7 +2,7 @@
 
 - 🔭 Interessado em desenvolvimento web e seguranca da informacao
 - 🌱 Estudando desenvolvimento web full stack na Trybe
-- 💬 Contate-me no email: patrickafb2020@tgmail.com
+- 💬 Contate-me no email: patrickafb2020@gmail.com
 - 📫 Vila Velha,ES,Brazil
 - 😄 Pronouns: Ele/Dele
 
