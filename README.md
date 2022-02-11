@@ -22,7 +22,8 @@
   <img align="center" alt="patrick-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
   <img align="center" alt="patrick-express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://giphy.com/embed/RbDKaczqWovIugyJmW">
+<!--     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://giphy.com/embed/RbDKaczqWovIugyJmW"> -->
+  <iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
   
 </div>
   
