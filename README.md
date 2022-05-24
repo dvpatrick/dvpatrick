@@ -4,7 +4,7 @@
 - 🌱 Estudando desenvolvimento web full stack na Trybe
 - 💬 Contate-me no email: patrickafb2020@gmail.com
 - 📫 Vila Velha,ES,Brazil
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/dvpatrick">
