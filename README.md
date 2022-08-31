@@ -1,7 +1,7 @@
 ## Ola eu sou o Patrick Barbosa
 
-- 🔭 Interessado em desenvolvimento web e seguranca da informacao
-- 🌱 Estudando desenvolvimento web full stack na Trybe
+- 🔭 Desenvolvedor FullStack
+- 🌱 Estudando desenvolvimento web full stack na Trybe, onde me encontro no final do curso, no modulo de Ciência da Computação
 - 💬 Contate-me no email: patrickafb2020@gmail.com
 - 📫 Vila Velha,ES,Brazil
 - 😄 Pronomes: Ele/Dele
